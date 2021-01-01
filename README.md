@@ -13,3 +13,7 @@ Sample website with plenty of files for demos, and examples to show different as
 ## Deployment
 
 Information regarding the deployment - Deployment can be on any web server or even local file system
+
+### Copyright
+
+2020
