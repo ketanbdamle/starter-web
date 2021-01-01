@@ -14,6 +14,10 @@ Sample website with plenty of files for demos, and examples to show different as
 
 Information regarding the deployment - Deployment can be on any web server or even local file system
 
+## How to Contribute
+
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2020
